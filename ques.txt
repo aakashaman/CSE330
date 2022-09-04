@@ -1,0 +1,24 @@
+find the prime number which can be written as sum of consecutive prime numbers
+find all the twisted prime no up to n
+find that the given no is twisted prime or not
+find twin prime no up to n
+find out highest occurence of a digit in prime number up to n.     
+check the given string is primestring or not.   
+WAP check if the number is divisible by all the prime factors of another number     
+print all possible palindrome pattern for the given string.    
+chocolate distribution problem
+factorial using recursion
+wap find the sum of digits of the no using recursion. 
+implement bubble,insertion sort using recursion.
+find decimal to binary  
+find all possible strings from given character set.    
+we have given three values values for money,price,,wrap,find the maximum candies we can eat.  
+find minimum steps to reach the destination.The condition is that in i’th move, you take i steps. 
+
+Find if you can reach a given number x 
+Find the most optimal way to reach a given number x, if we can indeed reach it. For example, 3 can be reached in 2 steps, (0, 1) (1, 3) and 4 can be reached in 3 steps (0, -1), (-1, 1) (1, 4).
+we have area of n*m and have tiles of 2^i * 2^i.we have to fill area with tiles.find the minimum tiles required.    
+check destination is reachable or not (x,y)->(x,x+y) or (x+y,y).
+check the given string is an additive sequence.
+given an array a[] and value x.find all pairs of elements from array having sum=x
+find minimum numbers of unique character in string
